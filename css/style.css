@@ -1,0 +1,44 @@
+body{ 
+    background-image: url(http://www.eaglenews.ph/wp-content/uploads/2017/09/Irma-hits-Florida.jpg);
+}
+
+.titulo{
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+/*.carusel .container .row div #carouselExampleIndicators ol li {
+    color: greenyellow;
+}*/
+
+.section-nav {
+    background-color: greenyellow;
+}
+ 
+.tamaño{
+    height: 85%;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px
+}
+
+.foto1{
+    margin-bottom: 40px;
+}
+
+.foto2{
+    margin-bottom: 40px;
+}
+
+.foto3{
+    margin-bottom: 40px;
+    }
+
+.us{
+    color: red;
+}
+
+.aserca{
+    color: blue;
+}
